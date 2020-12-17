@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestGame", "BestGame\BestGame.csproj", "{4D8EA51D-A1B9-4124-9961-C39544E6FD27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{B4370ACE-2D86-42D9-A201-D3E0A9E3B09D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{4D8EA51D-A1B9-4124-9961-C39544E6FD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D8EA51D-A1B9-4124-9961-C39544E6FD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D8EA51D-A1B9-4124-9961-C39544E6FD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4370ACE-2D86-42D9-A201-D3E0A9E3B09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4370ACE-2D86-42D9-A201-D3E0A9E3B09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4370ACE-2D86-42D9-A201-D3E0A9E3B09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4370ACE-2D86-42D9-A201-D3E0A9E3B09D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {308F0A95-A7E3-4861-AD6D-7EBF249CF71A}
 	EndGlobalSection
 EndGlobal
